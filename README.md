@@ -1,0 +1,2 @@
+# facial-expression-classification
+This project uses PyTorch to create a Neural Network that classifies 48x48 greyscale images into 3 different emotions, Angry, Happy, and Neutral.  Once trained with 15-20 epochs the model's accuracy can reach up to 90% accuracy without considerable overfitting to the training set. This 90% training accuracy corelates to about 80% accuracy with the validation set.
